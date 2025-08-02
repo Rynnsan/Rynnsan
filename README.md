@@ -22,14 +22,8 @@ Most of my projects are learning-oriented — I build to **understand**, not jus
 ## 📌 Current Focus
 
 - Building a **Reddit sentiment tracker** as a way to explore NLP and web development  
-- Diving deeper into **how systems work** — not just what they do  
-- Treating AI coding tools (like Copilot or Claude) as thought partners, not crutches
+- Trying to learn GODOT and C++ for game development
 
----
-
-## 🧠 Guiding Principle
-
-> *“The difference between hacking and engineering is understanding.”*
 
 ---
 
