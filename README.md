@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on <br> Game Development <br> Trying to learn and get experienced with GODOT, C++ and C#  for game development<br> Interactive systems and game engines like Godot and Unity.
+#  About Me:
+🔭 I’m currently working on Game Design and Game Development <br> Trying to learn and get experienced with GODOT, C++ and C#  for game development<br> Interactive systems and game engines like Godot and Unity.
 
 
 ## 🌐 Socials:
